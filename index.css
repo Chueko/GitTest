@@ -6,7 +6,7 @@ body {
 }
 
 span {
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.918);
     padding: 4px;
 }
 
